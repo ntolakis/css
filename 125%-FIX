@@ -1,0 +1,10 @@
+@media (-webkit-device-pixel-ratio: 1.25) {
+    header * {
+        zoom: 0.99;
+
+    }
+
+    .single-rooms .room-amenities {
+        zoom: 0.9;
+    }
+}
